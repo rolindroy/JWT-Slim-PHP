@@ -1,0 +1,17 @@
+{
+    "name": "rolindroy/slim-jwt",
+    "description": "PHP Slim framework based on JWT token",
+    "license": "Rolind Roy",
+    "authors": [
+        {
+            "name": "Rolind Roy",
+            "email": "rolind.roy@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {	
+        "slim/slim": "^2.6",
+        "tuupola/slim-jwt-auth": "^0.4.0",
+        "tuupola/slim-basic-auth": "^1.0"	
+    }
+}
